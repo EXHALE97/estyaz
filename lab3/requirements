@@ -1,0 +1,10 @@
+spacy
+tkinter
+operator
+HTMLParser
+functools
+PyQuery
+pdfminer.high_level
+nltk
+wordcloud
+matplotlib
